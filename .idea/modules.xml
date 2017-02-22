@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Chapter04.iml" filepath="$PROJECT_DIR$/Chapter04.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/step01locationinfo/step01locationinfo.iml" filepath="$PROJECT_DIR$/step01locationinfo/step01locationinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/step02example/step02example.iml" filepath="$PROJECT_DIR$/step02example/step02example.iml" />
       <module fileurl="file://$PROJECT_DIR$/step02webview/step02webview.iml" filepath="$PROJECT_DIR$/step02webview/step02webview.iml" />
       <module fileurl="file://$PROJECT_DIR$/step02webviewasset/step02webviewasset.iml" filepath="$PROJECT_DIR$/step02webviewasset/step02webviewasset.iml" />
     </modules>

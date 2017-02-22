@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>인덱스 페이지 입니다.</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+</head>
+<body>
+<div class="navbar navbar-inverse"></div>
+<div class="container">
+    <h3>인덱스 페이지</h3>
+    <input type="text" id="inputMsg"/>
+    <button class="btn btn-primary" id="sendBtn">전송</button>
+    <ul id="msgList">
+
+    </ul>
+</div>
+<script src="js/jquery-3.1.1.js"></script>
+<script>
+    $("#sendBtn").click(function(){
+        var msg=$("#inputMsg").val();
+        //Android Native 메소드 호출
+        window.NB.fromWebView(msg);
+    });
+
+    // Android Native Code 에서 호출하는 함수
+    function toWebView(msg){
+        $("<li/>").text(msg).appendTo("#msgList");
+    }
+
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+

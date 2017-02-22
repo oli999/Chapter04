@@ -1,1 +1,1 @@
-include ':app', ':step01locationinfo', ':step02webview', ':step02webviewasset'
+include ':app', ':step01locationinfo', ':step02webview', ':step02webviewasset', ':step02example'
