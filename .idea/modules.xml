@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/step02example/step02example.iml" filepath="$PROJECT_DIR$/step02example/step02example.iml" />
       <module fileurl="file://$PROJECT_DIR$/step02webview/step02webview.iml" filepath="$PROJECT_DIR$/step02webview/step02webview.iml" />
       <module fileurl="file://$PROJECT_DIR$/step02webviewasset/step02webviewasset.iml" filepath="$PROJECT_DIR$/step02webviewasset/step02webviewasset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wear01/wear01.iml" filepath="$PROJECT_DIR$/wear01/wear01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wear02/wear02.iml" filepath="$PROJECT_DIR$/wear02/wear02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wear03/wear03.iml" filepath="$PROJECT_DIR$/wear03/wear03.iml" />
     </modules>
   </component>
 </project>
